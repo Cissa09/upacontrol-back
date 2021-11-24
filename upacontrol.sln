@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "upacontrol", "upacontrol\upacontrol.csproj", "{936916C8-A890-4E1A-A174-09FF7329ECB4}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{9056E100-74A9-48AB-85AF-A603582FBEFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{936916C8-A890-4E1A-A174-09FF7329ECB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936916C8-A890-4E1A-A174-09FF7329ECB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936916C8-A890-4E1A-A174-09FF7329ECB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936916C8-A890-4E1A-A174-09FF7329ECB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9056E100-74A9-48AB-85AF-A603582FBEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9056E100-74A9-48AB-85AF-A603582FBEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9056E100-74A9-48AB-85AF-A603582FBEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9056E100-74A9-48AB-85AF-A603582FBEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F50D481-C3B0-48C7-8D98-573740483E02}
+	EndGlobalSection
+EndGlobal

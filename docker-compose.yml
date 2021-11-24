@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  upacontrol:
+    image: ${DOCKER_REGISTRY-}upacontrol
+    build:
+      context: .
+      dockerfile: upacontrol/Dockerfile
